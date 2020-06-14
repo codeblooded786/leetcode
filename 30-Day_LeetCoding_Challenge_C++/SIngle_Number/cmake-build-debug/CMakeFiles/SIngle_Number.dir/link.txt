@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/SIngle_Number.dir/main.cpp.o  -o SIngle_Number 

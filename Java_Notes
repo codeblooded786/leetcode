@@ -1,0 +1,2 @@
+int[] ints = {1,2,3};
+List<Integer> list = Arrays.stream(ints).boxed().collect(Collectors.toList());

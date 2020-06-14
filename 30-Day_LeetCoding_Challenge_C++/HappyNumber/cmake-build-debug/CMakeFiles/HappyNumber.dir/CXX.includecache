@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rahul/Desktop/codeblooded786/leetcode/30-Day_LeetCoding_Challenge_C++/HappyNumber/main.cpp
+bits/stdc++.h
+-
+
