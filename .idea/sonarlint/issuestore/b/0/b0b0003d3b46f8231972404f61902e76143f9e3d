@@ -1,0 +1,43 @@
+
+P
+java:S1191"5Use classes from the Java API instead of Sun classes.(èœå³ÿÿÿÿÿ
+U
+java:S1128":Remove this unused import 'sun.util.locale.LocaleMatcher'.(èœå³ÿÿÿÿÿ
+V
+java:S1854+";Remove this useless assignment to local variable "locale2".(à±‰øÿÿÿÿ
+R
+java:S1854*"<Remove this useless assignment to local variable "myLocale".(‹ÿ®»
+Q
+java:S1854)";Remove this useless assignment to local variable "locale1".(’‡ô¶
+P
+java:S1854&":Remove this useless assignment to local variable "values".(ôŞÊİ
+U
+java:S1854%":Remove this useless assignment to local variable "object".(šû–ûÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Ô¨½¤ÿÿÿÿÿ
+7
+java:S1116"Remove this empty statement.(Åñ­õşÿÿÿÿ
+7
+java:S1116"Remove this empty statement.(Åñ­õşÿÿÿÿ
+7
+java:S1116"Remove this empty statement.(Åñ­õşÿÿÿÿ
+7
+java:S1116"Remove this empty statement.(Åñ­õşÿÿÿÿ
+7
+java:S1116"Remove this empty statement.(Åñ­õşÿÿÿÿ
+7
+java:S1116"Remove this empty statement.(Åñ­õşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(˜âÎ²
+Q	java:S125$"<This block of commented-out lines of code should be removed.(¶‹Ô˜
+Q	java:S125'"<This block of commented-out lines of code should be removed.(õŒá½
+Q	java:S125,"<This block of commented-out lines of code should be removed.(ß´ø’
+V	java:S125."<This block of commented-out lines of code should be removed.(©ñüÿÿÿÿ
+F
+java:S1481%"+Remove this unused "object" local variable.(šû–ûÿÿÿÿ
+A
+java:S1481&"+Remove this unused "values" local variable.(ôŞÊİ
+B
+java:S1481)",Remove this unused "locale1" local variable.(’‡ô¶
+C
+java:S1481*"-Remove this unused "myLocale" local variable.(‹ÿ®»
+G
+java:S1481+",Remove this unused "locale2" local variable.(à±‰øÿÿÿÿ

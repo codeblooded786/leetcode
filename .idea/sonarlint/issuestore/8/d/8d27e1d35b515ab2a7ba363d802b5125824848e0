@@ -1,0 +1,13 @@
+
+X	java:S125&"<This block of commented-out lines of code should be removed.(ôƒ˜…8â–šÀö.
+Z	java:S106K"9Replace this use of System.out or System.err by a logger.(ŸØòşıÿÿÿÿ8º²ÄÀö.
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(Êô¥µıÿÿÿÿ8¬­ÁÀö.
+J
+java:S1481O"(Remove this unused "set" local variable.(¡ÌË­üÿÿÿÿ8ñ¬ÖÂö.
+Y
+java:S1854O"7Remove this useless assignment to local variable "set".(¡ÌË­üÿÿÿÿ8ñ¬ÖÂö.
+U
+java:S1854M"8Remove this useless assignment to local variable "map1".(üÈß·8ÃÈ•Âö.
+X	java:S125>"<This block of commented-out lines of code should be removed.(‡“ûÂ8›£ÃÀö.
+F
+java:S1481M")Remove this unused "map1" local variable.(üÈß·8ÃÈ•Âö.

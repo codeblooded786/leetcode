@@ -1,0 +1,27 @@
+
+C
+java:S3740"/Provide the parametrized type for this generic.(Ï©ê·
+C
+java:S3740"/Provide the parametrized type for this generic.(Ï©ê·
+O	java:S125"<This block of commented-out lines of code should be removed.(Ñ¾”Ø
+D
+java:S1481"0Remove this unused "integerList" local variable.(ÞñÆŒ
+J
+java:S1481"1Remove this unused "integerList1" local variable.(¼¸Åûÿÿÿÿ
+H
+java:S3740"/Provide the parametrized type for this generic.(òÌâÂýÿÿÿÿ
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(ùáß˜þÿÿÿÿ
+K
+java:S1854"7Remove this useless assignment to local variable "map".(ääš›
+:
+java:S1481"&Remove this unused "s" local variable.(Ï©ê·
+<
+java:S1481"(Remove this unused "map" local variable.(ääš›
+Y
+java:S1854"@Remove this useless assignment to local variable "integerList1".(¼¸Åûÿÿÿÿ
+I
+java:S1854"5Remove this useless assignment to local variable "s".(Ï©ê·
+H
+java:S3740"/Provide the parametrized type for this generic.(òÌâÂýÿÿÿÿ
+S
+java:S1854"?Remove this useless assignment to local variable "integerList".(ÞñÆŒ

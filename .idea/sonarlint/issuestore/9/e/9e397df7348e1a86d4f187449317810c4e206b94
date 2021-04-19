@@ -1,0 +1,5 @@
+
+}
+java:S4165"cRemove this useless assignment; "array" already holds the assigned value along all execution paths.(Öß‹v8£«ä–ö.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(‘Ä¸Éùÿÿÿÿ8’Üå–ö.
+V	java:S125"<This block of commented-out lines of code should be removed.(ÐŠð8™ÁÖ–ö.

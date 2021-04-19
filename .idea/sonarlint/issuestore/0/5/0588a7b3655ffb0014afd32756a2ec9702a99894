@@ -1,0 +1,18 @@
+
+É
+java:S1319 "mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(®£‚Ò
+à
+java:S13194"rThe type of the "properties" object should be an interface such as "Map" rather than the implementation "HashMap".(˘Ï¨∏
+{
+java:S41650"`Remove this useless assignment; "id" already holds the assigned value along all execution paths.(£©Ë⁄˛ˇˇˇˇ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(õáƒŒ˘ˇˇˇˇ
+`
+java:S1124
+"EReorder the modifiers to comply with the Java Language Specification.(Äø∞õ˝ˇˇˇˇ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¿∂™ô
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ƒ·ÔÏ
+>
+java:S1172/"(Remove this unused method parameter "i".(‡…≈•

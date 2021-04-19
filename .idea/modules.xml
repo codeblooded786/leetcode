@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/30DayLeetcodingChallenge/30DayLeetcodingChallenge.iml" filepath="$PROJECT_DIR$/30DayLeetcodingChallenge/30DayLeetcodingChallenge.iml" />
-      <module fileurl="file://$PROJECT_DIR$/AugustLeetcodingChallenge/AugustLeetcodingChallenge.iml" filepath="$PROJECT_DIR$/AugustLeetcodingChallenge/AugustLeetcodingChallenge.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JuneLeetcodingChallenge/JuneLeetcodingChallenge.iml" filepath="$PROJECT_DIR$/JuneLeetcodingChallenge/JuneLeetcodingChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo/Demo.iml" filepath="$PROJECT_DIR$/Demo/Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" filepath="$PROJECT_DIR$/DesignPatterns/DesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InterviewPrep/InterviewPrep.iml" filepath="$PROJECT_DIR$/InterviewPrep/InterviewPrep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaAWS/JavaAWS.iml" filepath="$PROJECT_DIR$/JavaAWS/JavaAWS.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetcodeEasyProblems/LeetcodeEasyProblems.iml" filepath="$PROJECT_DIR$/LeetcodeEasyProblems/LeetcodeEasyProblems.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetcodeHardProblems/LeetcodeHardProblems.iml" filepath="$PROJECT_DIR$/LeetcodeHardProblems/LeetcodeHardProblems.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeetcodeMediumProblems/LeetcodeMediumProblems.iml" filepath="$PROJECT_DIR$/LeetcodeMediumProblems/LeetcodeMediumProblems.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MayLeetcodingChallenge/MayLeetcodingChallenge.iml" filepath="$PROJECT_DIR$/MayLeetcodingChallenge/MayLeetcodingChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Makkajai/Makkajai.iml" filepath="$PROJECT_DIR$/Makkajai/Makkajai.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multithreading/Multithreading.iml" filepath="$PROJECT_DIR$/Multithreading/Multithreading.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode.iml" filepath="$PROJECT_DIR$/leetcode.iml" />
     </modules>
   </component>

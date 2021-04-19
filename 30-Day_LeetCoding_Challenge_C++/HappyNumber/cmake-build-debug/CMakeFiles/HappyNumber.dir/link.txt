@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/HappyNumber.dir/main.cpp.o  -o HappyNumber 

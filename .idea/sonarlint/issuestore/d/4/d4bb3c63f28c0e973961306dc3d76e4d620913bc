@@ -1,0 +1,41 @@
+
+t
+java:S11712"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(Ê¥ÿÃıÿÿÿÿ
+Q	java:S125&"<This block of commented-out lines of code should be removed.(‘Í´¶
+M
+java:S2440"7Remove this instantiation of "ClassInitializationDemo".(‘“¿Ç
+P
+java:S2209"5Change this instance-reference to a static reference.(¾µãúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(üöÑšıÿÿÿÿ
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(Ï°Ş¹úÿÿÿÿ
+K
+java:S2209"5Change this instance-reference to a static reference.(‘“¿Ç
+R
+java:S2440"7Remove this instantiation of "ClassInitializationDemo".(¾µãúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(õÁµ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(½¤¡¨
+N	java:S106N"9Replace this use of System.out or System.err by a logger.(ßƒûå
+S	java:S1069"9Replace this use of System.out or System.err by a logger.(Á½³ÿÿÿÿÿ
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(®–šñ
+‡
+java:S1130F"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ
+t
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(»ïÓ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¤Ú†Ûùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÿÇ¦ûÿÿÿÿ
+Q	java:S125,"<This block of commented-out lines of code should be removed.(´€‹…
+D
+java:S2140$")Use "java.util.Random.nextInt()" instead.(ğ¡œüÿÿÿÿ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(ï½£˜üÿÿÿÿ
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(€èÜãúÿÿÿÿ
+t
+java:S11718"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(Ê¼½ª
+Q	java:S125O"<This block of commented-out lines of code should be removed.(´æÚö
+V	java:S125I"<This block of commented-out lines of code should be removed.(·ã¬¨ıÿÿÿÿ
+S	java:S106G"9Replace this use of System.out or System.err by a logger.(÷ÌµÏÿÿÿÿÿ
+N	java:S106H"9Replace this use of System.out or System.err by a logger.(­¶êİ
+N	java:S106L"9Replace this use of System.out or System.err by a logger.(÷ºÔ«
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(ŒÛöøÿÿÿÿ

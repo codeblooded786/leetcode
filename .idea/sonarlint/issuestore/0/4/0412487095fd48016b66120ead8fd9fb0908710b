@@ -1,0 +1,19 @@
+
+U	java:S106x"9Replace this use of System.out or System.err by a logger.(Ã‚ÛŠ8Ó“é‡/
+E	java:S108d")Either remove or fill this block of code.(”ı¾8Ó“é‡/
+X	java:S125"<This block of commented-out lines of code should be removed.(§™Œõ8—×“é‡/
+c
+java:S2142a"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Ó“é‡/
+W
+java:S1141]"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Ó“é‡/
+c
+java:S2142G"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Ó“é‡/
+c
+java:S2142U"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Ó“é‡/
+Z	java:S106l"9Replace this use of System.out or System.err by a logger.(Ã²›úÿÿÿÿ8ûÃ¸ç‡/
+™
+java:S1130u"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(…ã©÷şÿÿÿÿ8Ó“é‡/
+”
+java:S1130i"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(™‚ÇÓ8Ó“é‡/
+c
+java:S2142N"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8Ó“é‡/

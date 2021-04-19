@@ -1,0 +1,32 @@
+
+V	java:S125"<This block of commented-out lines of code should be removed.(“Œ—ò8–¹Ãó.
+[	java:S125"<This block of commented-out lines of code should be removed.(û¾Ö»şÿÿÿÿ8‡¡ô”ö.
+[	java:S125"<This block of commented-out lines of code should be removed.(æÈş½üÿÿÿÿ8‡¡ô”ö.
+`
+java:S1854"ERemove this useless assignment to local variable "summaryStatistics".(Î·Á…8–¹Ãó.
+X
+java:S1197"8Move the array designator from the variable to the type.(ïÚçÏøÿÿÿÿ8–¹Ãó.
+L
+java:S3958"2Refactor the code so this stream pipeline is used.(º£…*8–¹Ãó.
+G
+java:S1481",Remove this unused "collect" local variable.(ª‰½8–¹Ãó.
+H
+java:S1481"(Remove this unused "map" local variable.(³Öëæÿÿÿÿÿ8–¹Ãó.
+V	java:S125"<This block of commented-out lines of code should be removed.(‡Éå¥8üåÂªò.
+X	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8–¹Ãó.
+V	java:S125"<This block of commented-out lines of code should be removed.(Ú°à¬8¤Èõªò.
+^
+java:S1854">Remove this useless assignment to local variable "integerMap".(€…‚üÿÿÿÿ8–¹Ãó.
+F
+java:S1481"&Remove this unused "s" local variable.(ïÚçÏøÿÿÿÿ8–¹Ãó.
+Q
+java:S1481"6Remove this unused "summaryStatistics" local variable.(Î·Á…8–¹Ãó.
+U
+java:S1854"5Remove this useless assignment to local variable "s".(ïÚçÏøÿÿÿÿ8–¹Ãó.
+V
+java:S1854";Remove this useless assignment to local variable "collect".(ª‰½8–¹Ãó.
+W
+java:S1854"7Remove this useless assignment to local variable "map".(³Öëæÿÿÿÿÿ8–¹Ãó.
+O
+java:S1481"/Remove this unused "integerMap" local variable.(€…‚üÿÿÿÿ8–¹Ãó.
+V	java:S125"<This block of commented-out lines of code should be removed.(Õà¦‡8‡¡ô”ö.

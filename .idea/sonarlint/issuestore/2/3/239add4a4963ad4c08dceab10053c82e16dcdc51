@@ -1,0 +1,6 @@
+
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(êìŸ›ùÿÿÿÿ8ÅşåØğ.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â¹ğøÿÿÿÿ8à‹ØØğ.
+`
+java:S1155(">Use isEmpty() to check whether the collection is empty or not.(šëèùÿÿÿÿ8ã‡±Ùğ.
+X	java:S125B"<This block of commented-out lines of code should be removed.(Ïş’÷8õÛ”Ùğ.

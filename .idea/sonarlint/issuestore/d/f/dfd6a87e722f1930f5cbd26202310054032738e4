@@ -1,0 +1,6 @@
+
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(é™óƒ
+P	java:S125"<This block of commented-out lines of code should be removed.(µÕÖ0
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(„íí
+N	java:S106="9Replace this use of System.out or System.err by a logger.(„íí

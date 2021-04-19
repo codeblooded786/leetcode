@@ -1,0 +1,24 @@
+
+R
+java:S2446T"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8Ð²½é‡/
+Z	java:S106m"9Replace this use of System.out or System.err by a logger.(ÿ«‚ýÿÿÿÿ8Ð²½é‡/
+`
+java:S2276W"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(¬Æ„°8õ¥€é‡/
+R
+java:S2446q"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8Ð²½é‡/
+Z	java:S106L"9Replace this use of System.out or System.err by a logger.(˜ùËèýÿÿÿÿ8Œã¾é‡/
+[
+java:S1155c">Use isEmpty() to check whether the collection is empty or not.(¡ä‘Ž8Ð²½é‡/
+c
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8õ¥€é‡/
+c
+java:S2142""FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8õ¥€é‡/
+[
+java:S1155C">Use isEmpty() to check whether the collection is empty or not.(“ÅûŠ8„Ò§é‡/
+D
+java:S1604"(Make this anonymous inner class a lambda(£·®8õ¥€é‡/
+E
+java:S1604"(Make this anonymous inner class a lambda(ÿïÞß8õ¥€é‡/
+U	java:S106I"9Replace this use of System.out or System.err by a logger.(‘ÿß•8Ð²½é‡/
+`
+java:S2276t"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(¬Æ„°8Ð²½é‡/
